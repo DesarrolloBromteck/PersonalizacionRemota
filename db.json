@@ -10,13 +10,13 @@
   },
   "personalizacion": {
     ".splashPersonalizado": {
-        "background-image": "url('../public/assets/images/intv/splash.png')"
+        "background-image": "url('../public/assets/images/bromteck/splash.png')"
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('../public/assets/images/intv/background.png')"
+        "background-image": "url('../public/assets/images/bromteck/background.png')"
     },
     ".logoPersonalizado": {
-        "content": "url('../public/assets/images/intv/logo.png')",
+        "content": "url('../public/assets/images/bromteck/logo.png')",
         "width":"20%"
     },
     ".contenedorLogoPersonalizado": {
