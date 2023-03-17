@@ -20,7 +20,7 @@
         "width":"30%"
     },
     ".contenedorLogoPersonalizado": {
-        "justify-content": "center"
+        "justify-content": "start"
     },
     ".contenedorHoraPersonalizado": {
         "display": "block"
