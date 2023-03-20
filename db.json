@@ -10,13 +10,13 @@
   },
   "personalizacion": {
     ".splashPersonalizado": {
-        "background-image": "url('../public/assets/images/intv/splash.png')"
+        "background-image": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=xhaw8b13&path=%2FWeb%2FAplicacionesWeb%2Fintv&name=splash.png&radno=08/03/2023%2010:40:12264614&option=1')"
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('../public/assets/images/intv/background.png')"
+        "background-image": "url('bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=xhaw8b13&path=%2FWeb%2FAplicacionesWeb%2Fintv&name=background.png&radno=08/03/2023%2010:40:12169289&option=1  ')"
     },
     ".logoPersonalizado": {
-        "content": "url('../public/assets/images/intv/logo.png')",
+        "content": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=xhaw8b13&path=%2FWeb%2FAplicacionesWeb%2Fintv&name=logo.png&radno=08/03/2023%2010:40:1217434&option=1')",
         "width":"20%"
     },
     ".contenedorLogoPersonalizado": {
