@@ -17,7 +17,7 @@
     },
     ".logoPersonalizado": {
         "content": "url('../public/assets/images/intv/logo.png')",
-        "width":"30%"
+        "width":"20%"
     },
     ".contenedorLogoPersonalizado": {
         "justify-content": "start"
