@@ -26,8 +26,7 @@
         "display": "block"
     },
     ".temaPersonalizado": {
-        "background-color": "#ccc",
-        "border-color": "#ccc"
+        "background-color": "#ccc"
     }
   }
 }
