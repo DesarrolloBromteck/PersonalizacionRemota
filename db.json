@@ -27,7 +27,7 @@
     },
     ".temaPersonalizado": {
         "background-color": "#ccc",
-        "border-color": "ccc"
+        "border-color": "#ccc"
     }
   }
 }
