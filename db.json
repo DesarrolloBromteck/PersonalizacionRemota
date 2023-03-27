@@ -16,7 +16,7 @@
         "background-image": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=xhaw8b13&path=%2FWeb%2FAplicacionesWeb%2Fintv&name=background.png&radno=08/03/2023%2010:40:12169289&option=1')"
     },
     ".logoPersonalizado": {
-        "content": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=xhaw8b13&path=%2FWeb%2FAplicacionesWeb%2Fintv&name=logo.png&radno=08/03/2023%2010:40:1217434&option=1')"
+        "content": "url('../public/assets/images/bromteck/logo.png')"
     },
     ".contenedorLogoPersonalizado": {
         "justify-content": "center"
