@@ -10,10 +10,10 @@
   },
   "personalizacion": {
     ".splashPersonalizado": {
-        "background-image": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=y8f9clw1&path=%2FWeb%2FClientes%2Fbromteck%2Fassets%2Ftv%20-%20web%20-%20bromteck%2Fversion%2001&name=splash.png&radno=08/03/2023%2010:40:121855480&option=1')"
+        "background-image": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=7s7uznnh&path=%2FWeb%2FClientes%2Fbromteck%2Fassets%2Ftv%20-%20web%20-%20bromteck%2Fversion%2001&name=splash.png&radno=08/03/2023%2010:40:121855480&option=1')"
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=y8f9clw1&path=%2FWeb%2FClientes%2Fbromteck%2Fassets%2Ftv%20-%20web%20-%20bromteck%2Fversion%2001&name=background.png&radno=08/03/2023%2010:40:121773811&option=1')"
+        "background-image": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=7s7uznnh&path=%2FWeb%2FClientes%2Fbromteck%2Fassets%2Ftv%20-%20web%20-%20bromteck%2Fversion%2001&name=background.png&radno=08/03/2023%2010:40:121773811&option=1')"
     },
     ".contenedorLogoPersonalizado": {
         "justify-content": "start"
