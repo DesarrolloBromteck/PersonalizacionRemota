@@ -27,6 +27,9 @@
     ".contenedorHoraPersonalizado": {
         "display": "block"
     },
+    ".horaEnPlayerPersonalizado": {
+        "position": "relative"
+    }
     ".temaPersonalizado": {
         "background-color": "#000"
     }
