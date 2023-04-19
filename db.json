@@ -22,14 +22,8 @@
         "content": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=rjvnlmd7&path=%2FWeb%2FClientes%2Fbromteck%2Fassets%2Ftv%20-%20web%20-%20bromteck%2Fversion%2001&name=logo.png&radno=08/03/2023%2010:40:1216645&option=1')",
         "width": "20%"
     },
-    ".logoEnPlayerPersonalizado": {
-        "position": "initial"
-    },
     ".contenedorHoraPersonalizado": {
         "display": "block"
-    },
-    ".horaEnPlayerPersonalizado": {
-        "position": "initial"
     },
     ".temaPersonalizado": {
         "background-color": "#ccc"
