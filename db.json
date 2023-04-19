@@ -20,13 +20,13 @@
         "width": "30%"
     },
     ".contenedorLogoPersonalizado": {
-        "justify-content": "start"
+        "justify-content": "center"
     },
     ".contenedorHoraPersonalizado": {
         "display": "block"
     },
     ".temaPersonalizado": {
         "background-color": "#ccc"
-    }
+    },
   }
 }
