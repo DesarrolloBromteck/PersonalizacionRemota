@@ -10,13 +10,13 @@
   },
   "personalizacion": {
     ".splashPersonalizado": {
-        "background-image": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=l7likdx9&path=%2FWeb%2FClientes%2Fbromteck%2Fassets%2Ftv%20-%20web%20-%20bromteck%2Fversion%2001&name=splash.png&radno=08/03/2023%2010:40:121855480&option=1')"
+        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/splash')"
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=l7likdx9&path=%2FWeb%2FClientes%2Fbromteck%2Fassets%2Ftv%20-%20web%20-%20bromteck%2Fversion%2001&name=background.png&radno=08/03/2023%2010:40:121773811&option=1')"
+        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/background')"
     },
     ".logoPersonalizado": {
-        "content": "url('http://networkbroadcastqnap.ddns.net:880/cgi-bin/filemanager/utilRequest.cgi?func=get_thumb&size=800&sid=l7likdx9&path=%2FWeb%2FClientes%2Fbromteck%2Fassets%2Ftv%20-%20web%20-%20bromteck%2Fversion%2001&name=logo.png&radno=08/03/2023%2010:40:1216645&option=1')",
+        "content": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/logo')",
         "width": "20%"
     },
     ".contenedorLogoPersonalizado": {
