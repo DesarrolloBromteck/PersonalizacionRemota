@@ -29,7 +29,7 @@
       "background-color": "#26D93F"
     },
     ".botonDeAnunciosPersonalizado": {
-      "background-color": "#FE9104" 
+      "background": "#FE9104" 
     }
   }
 }
