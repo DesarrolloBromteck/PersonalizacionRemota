@@ -17,7 +17,7 @@
     },
     ".logoPersonalizado": {
         "content": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/logo')",
-        "width": "50%"
+        "width": "20%"
     },
     ".contenedorLogoPersonalizado": {
         "justify-content": "center"
@@ -27,6 +27,10 @@
     },
     ".temaPersonalizado": {
       "background-color": "#26D93F"
+    }
+    ,
+    ".botonPersonalizado": {
+      "background-color": "#ccc"
     }
   }
 }
