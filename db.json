@@ -13,7 +13,7 @@
         "background-image": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/splash')"
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/background')"
+        "background-image": "#49557E"
     },
     ".logoPersonalizado": {
         "content": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/logo')",
