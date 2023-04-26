@@ -20,7 +20,7 @@
         "width": "20%"
     },
     ".contenedorLogoPersonalizado": {
-        "justify-content": "center"
+        "justify-content": "start"
     },
     ".contenedorHoraPersonalizado": {
         "display": "block"
@@ -29,7 +29,7 @@
       "background-color": "#26D93F"
     },
     ".botonDeAnunciosPersonalizado": {
-      "background-color": "#FE9104" 
+      "background-color": "#000" 
     }
   }
 }
