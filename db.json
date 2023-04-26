@@ -27,8 +27,7 @@
     },
     ".temaPersonalizado": {
       "background-color": "#26D93F"
-    }
-    ,
+    },
     ".botonPersonalizado": {
       "background-color": "#ca35af" 
     }
