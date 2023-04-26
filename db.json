@@ -30,7 +30,7 @@
     }
     ,
     ".botonPersonalizado": {
-      "background-color": "#ccc"
+      "background-color": "#ca35af" 
     }
   }
 }
