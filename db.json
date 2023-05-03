@@ -23,7 +23,7 @@
         "justify-content": "end"
     },
     ".contenedorHoraPersonalizado": {
-        "display": "block"
+        "display": "none"
     },
     ".temaPersonalizado": {
       "background-color": "#26D93F"
