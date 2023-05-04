@@ -30,6 +30,9 @@
     },
     ".botonDeAnunciosPersonalizado": {
       "background": "#fff" 
+    },
+    ".colorLetraAnunciosPersonalizado": {
+      "color": "#7d128d" 
     }
   }
 }
