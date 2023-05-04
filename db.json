@@ -21,11 +21,11 @@
       "background-color": "#000"
     },
     ".botonDeAnunciosPersonalizado": {
-      "color": "#c68435",
+      "color": "#000",
       "background-color": "#fff"
     },
     ".colorLetraAnunciosPersonalizado": {
-      "color": "#7d128d" 
+      "color": "#fff" 
     }
   }
 }
