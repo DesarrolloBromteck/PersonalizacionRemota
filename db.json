@@ -26,6 +26,7 @@
         "display": "block"
     },
     ".temaPersonalizado": {
+      "color": "#c68435",
       "background-color": "#26D93F"
     },
     ".botonDeAnunciosPersonalizado": {
