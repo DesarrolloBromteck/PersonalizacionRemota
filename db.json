@@ -1,31 +1,31 @@
 {
   "personalizacion": {
     ".splashPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/splash')"
+        "background-image": ""
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/background')"
+        "background-image": ""
     },
     ".logoPersonalizado": {
-        "content": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/logo')",
-        "width": "20%"
+        "content": "",
+        "width": ""
     },
     ".contenedorLogoPersonalizado": {
-        "justify-content": "center"
+        "justify-content": ""
     },
     ".contenedorHoraPersonalizado": {
-        "display": "block"
+        "display": ""
     },
     ".temaPersonalizado": {
-      "color": "#fff",
-      "background-color": "#000"
+      "color": "",
+      "background-color": ""
     },
     ".botonDeAnunciosPersonalizado": {
-      "color": "#000",
-      "background-color": "#fff"
+      "color": "",
+      "background-color": ""
     },
     ".colorLetraAnunciosPersonalizado": {
-      "color": "#fff" 
+      "color": "" 
     }
   }
 }
