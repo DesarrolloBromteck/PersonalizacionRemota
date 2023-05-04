@@ -29,7 +29,8 @@
       "background-color": "#26D93F"
     },
     ".botonDeAnunciosPersonalizado": {
-      "background": "#fff" 
+      "color": "#c68435",
+      "background-color": "#fff"
     },
     ".colorLetraAnunciosPersonalizado": {
       "color": "#7d128d" 
