@@ -4,7 +4,7 @@
         "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/splash')"
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/background')"
+        "background-color": "#4e2aaa"
     },
     ".logoPersonalizado": {
         "content": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/logo')",
