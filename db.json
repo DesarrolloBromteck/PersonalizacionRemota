@@ -1,31 +1,31 @@
 {
   "personalizacion": {
     ".splashPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/splash')"
+        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/splash')"
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/background')"
+        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/background')"
     },
     ".logoPersonalizado": {
-        "content": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/logo')",
+        "content": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/logo')",
         "width": "20%"
     },
     ".contenedorLogoPersonalizado": {
-        "justify-content": "center"
+        "justify-content": "start"
     },
     ".contenedorHoraPersonalizado": {
-        "display": "none"
+        "display": "block"
     },
     ".temaPersonalizado": {
-      "color": "#fff",
-      "background-color": "#000"
+      "color": "#000",
+      "background-color": "#348b83"
     },
     ".botonDeAnunciosPersonalizado": {
       "color": "#000",
-      "background-color": "#fff"
+      "background-color": "#143f4e"
     },
     ".colorLetraAnunciosPersonalizado": {
-      "color": "#fff" 
+      "color": "#000" 
     }
   }
 }
