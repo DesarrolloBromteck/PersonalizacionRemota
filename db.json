@@ -1,13 +1,13 @@
 {
   "personalizacion": {
     ".splashPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/fotelka/assets/tv-web-fotelka/version-01/splash')"
+        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/splash')"
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/fotelka/assets/tv-web-fotelka/version-01/background')"
+        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/background')"
     },
     ".logoPersonalizado": {
-        "content": "url('https://www.networkbroadcast.net/wp-content/uploads/2020/05/logo_blano_footer.png')",
+        "content": "url('http://networkbroadcast.servepics.com/Clientes/bromteck/assets/tv-web-bromteck/version-01/logo')",
         "width": "20%"
     },
     ".contenedorLogoPersonalizado": {
