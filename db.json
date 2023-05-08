@@ -1,20 +1,20 @@
 {
   "personalizacion": {
     ".splashPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/splash')"
+        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/fotelka/assets/tv-web-fotelka/version-01/splash')"
     },
     ".backgroundPersonalizado": {
-        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/background')"
+        "background-image": "url('http://networkbroadcast.servepics.com/Clientes/fotelka/assets/tv-web-fotelka/version-01/background')"
     },
     ".logoPersonalizado": {
-        "content": "url('http://networkbroadcast.servepics.com/Clientes/intv/assets/tv-web-intv/version-01/logo')",
+        "content": "url('http://networkbroadcast.servepics.com/Clientes/fotelka/assets/tv-web-fotelka/version-01/logo')",
         "width": "20%"
     },
     ".contenedorLogoPersonalizado": {
-        "justify-content": "center"
+        "justify-content": "start"
     },
     ".contenedorHoraPersonalizado": {
-        "display": "none"
+        "display": "block"
     },
     ".temaPersonalizado": {
       "color": "#fff",
